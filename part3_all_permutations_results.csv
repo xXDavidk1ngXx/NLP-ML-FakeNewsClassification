@@ -1,0 +1,73 @@
+mean_test_score,std_test_score,params,rank_test_score
+0.9128553351410493,0.04321313558372078,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",1
+0.9110011883541296,0.039156245576349516,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",2
+0.8977681159420291,0.03593403370633329,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",3
+0.896349688811695,0.03472867939562966,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",4
+0.8938437031303424,0.045558605456660003,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",5
+0.8917243419106773,0.0303856715286326,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",6
+0.8897499509432905,0.053023769617770944,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",7
+0.8887652030509173,0.03928000978238764,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",8
+0.8880092363516411,0.042078620690183824,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",9
+0.8876971310263235,0.05230292669234197,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",10
+0.8870531400966184,0.03481500101990867,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",11
+0.882758865248227,0.040564861301821256,"{'clf': MultinomialNB(), 'clf__alpha': 0.1, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",12
+0.8822478556640048,0.041883156312598334,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",13
+0.8815575922839974,0.037537555962801256,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",14
+0.8815575922839974,0.037537555962801256,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",14
+0.8809521299956083,0.029956880407948742,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",16
+0.8806668279960206,0.044065647021901924,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",17
+0.8798763141620285,0.03265955044223171,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",18
+0.8792785263751608,0.056025392529679696,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",19
+0.8786875325550756,0.04547413433013231,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",20
+0.8785353535353536,0.04595959595959596,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",21
+0.8772668545924361,0.048670627220656446,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",22
+0.8694783703294341,0.04309490031532579,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",23
+0.8682059095608642,0.048225570954179134,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",24
+0.8670627480661762,0.044395776316188185,"{'clf': LinearSVC(), 'clf__C': 2.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",25
+0.8669974160206719,0.051174895861300446,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",26
+0.8654030506133253,0.061316253930136844,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",27
+0.8654030506133253,0.061316253930136844,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",27
+0.865211983426825,0.02362038327281186,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",29
+0.8614885791715059,0.02004621124661643,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",30
+0.8561007250319299,0.06804668171762057,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",31
+0.8548074534161489,0.06089468418766463,"{'clf': LinearSVC(), 'clf__C': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",32
+0.8505636264715756,0.07044285679604576,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",33
+0.8472737476014048,0.06183631631728133,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",34
+0.8459753012944502,0.07741179961993333,"{'clf': LinearSVC(), 'clf__C': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",35
+0.8419030321002298,0.0781181321241904,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",36
+0.8419030321002298,0.0781181321241904,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",36
+0.8391878922111479,0.021033300200715043,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",38
+0.8205420054200543,0.07609187626911092,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",39
+0.8072552767548,0.08846906502363688,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",40
+0.802568701959095,0.03546208285702499,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",41
+0.8005076384282143,0.09599018010261738,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",42
+0.8002842187052712,0.08562196551238091,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",43
+0.7922271473758888,0.09849477448467148,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",44
+0.7713112211968047,0.09536846572328121,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",45
+0.7682620181476016,0.09725102069689595,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",46
+0.7477594477594478,0.09361761565254241,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",47
+0.7317115174177,0.09733309383346031,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",48
+0.7018285548518106,0.09512363707496693,"{'clf': MultinomialNB(), 'clf__alpha': 0.5, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",49
+0.6978120978120977,0.07553020101030333,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 2.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",50
+0.6944669365721997,0.028277032882502124,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",51
+0.6627642276422764,0.0684114731637209,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 2.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",52
+0.6114689584858366,0.12755806469759126,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 3.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",53
+0.5849444672974086,0.07653815963714913,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",54
+0.5340873980941893,0.1431781679854917,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",55
+0.5174789915966387,0.07312064047168829,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",56
+0.5169024712318431,0.14104736382886576,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",57
+0.5009914816366429,0.04914352860648856,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",58
+0.46517045082771713,0.12391522030611142,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",59
+0.39589754397056626,0.12170709614508829,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",60
+0.39000896057347667,0.08718527481461354,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",61
+0.3605169765347741,0.05583100121586328,"{'clf': MultinomialNB(), 'clf__alpha': 1.0, 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",62
+0.31417907021911473,0.06843496471374398,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",63
+0.09116809116809117,0.07446750656503495,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 1.0, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",64
+0.07525925925925926,0.0662962549141191,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.5, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 3, 'tfidf__ngram_range': (3, 5)}",65
+0.03076923076923077,0.03768445758127967,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.5, 'clf__penalty': 'l2', 'tfidf__analyzer': 'char', 'tfidf__min_df': 2, 'tfidf__ngram_range': (3, 5)}",66
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",67
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 3, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",67
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",67
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 2, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",67
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 2), 'tfidf__stop_words': 'english'}",67
+0.0,0.0,"{'clf': LogisticRegression(max_iter=200, solver='liblinear'), 'clf__C': 0.1, 'clf__penalty': 'l2', 'tfidf__analyzer': 'word', 'tfidf__min_df': 1, 'tfidf__ngram_range': (1, 1), 'tfidf__stop_words': 'english'}",67
